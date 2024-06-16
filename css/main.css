@@ -1504,8 +1504,8 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-    height: 24rem; /* Nouvelle hauteur de l'image */
-    width: 19rem; /* Nouvelle largeur de l'image */
+    height: 22rem; /* Nouvelle hauteur de l'image */
+    width: 20rem; /* Nouvelle largeur de l'image */
     border-radius: 0%; /* Optionnel : ajuster le border-radius pour un coin légèrement arrondi */
     margin: .9rem 1.8rem .9rem 0; /* Marge (haut, droite, bas, gauche) */
     float: left; /* Alignement à gauche */
