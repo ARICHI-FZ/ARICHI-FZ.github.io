@@ -1507,8 +1507,8 @@ header .logo a {
     height: 22rem; /* Nouvelle hauteur de l'image */
     width: 20rem; /* Nouvelle largeur de l'image */
     border-radius: 0%; /* Optionnel : ajuster le border-radius pour un coin légèrement arrondi */
-    margin: .9rem 1.8rem .9rem 0; /* Marge (haut, droite, bas, gauche) */
-    float: left; /* Alignement à gauche */
+    margin: .9rem auto; /* Marge (haut et bas) avec 'auto' pour le centrage horizontal */
+    display: block; /* Assure que l'image est un bloc pour utiliser 'auto' pour la marge */
 }
 
 
