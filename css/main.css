@@ -1504,7 +1504,7 @@ header .logo a {
 }
 .intro-info img {
     height: 17rem; /* Augmenter la hauteur pour agrandir l'image */
-    width: 12rem; /* Augmenter la largeur pour transformer en rectangle */
+    width: 15rem; /* Augmenter la largeur pour transformer en rectangle */
     border-radius: 0%; /* Optionnel : ajuster le border-radius pour un coin légèrement arrondi */
     margin: .9rem 1.8rem .9rem 0;
     float: left;
