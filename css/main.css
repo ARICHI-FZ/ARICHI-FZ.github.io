@@ -1503,12 +1503,13 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
-	border-radius: 50%;
-	margin: .9rem 0 0 0;
-	float: left;
+    height: 12rem; /* Augmenter la hauteur pour agrandir l'image */
+    width: 18rem; /* Augmenter la largeur pour transformer en rectangle */
+    border-radius: 10%; /* Optionnel : ajuster le border-radius pour un coin légèrement arrondi */
+    margin: .9rem 0 0 0;
+    float: left;
 }
+
 .intro-info .lead {
 	text-align: left;
 	padding-left: 13rem;
