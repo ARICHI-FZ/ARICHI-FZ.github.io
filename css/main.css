@@ -1500,14 +1500,14 @@ header .logo a {
 
 .intro-info {
 	margin-top: 4.2rem;
-	margin-right: -30px;
-	margin-left: -30px;
+	margin-right: -20px;
+	margin-left: -20px;
 }
 
 .intro-info img {
 	height: 22rem; /* Nouvelle hauteur de l'image */
     width: 18rem; /* Nouvelle largeur de l'image */
-	border-radius: 20%;
+	border-radius: 0%;
 	margin: 0;
 	float: left;
 }
