@@ -1507,7 +1507,7 @@ header .logo a {
 .intro-info img {
 	height: 22rem; /* Nouvelle hauteur de l'image */
     width: 18rem; /* Nouvelle largeur de l'image */
-	border-radius: 0%;
+	border-radius: 20%;
 	margin: 0;
 	float: left;
 }
