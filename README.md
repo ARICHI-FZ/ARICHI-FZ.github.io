@@ -27,13 +27,14 @@ To clone this repository to your local machine, use the following command:
 ```bash
 git clone https://github.com/arichi-fz/arichi-fz.github.io.git
 
-## Running the Project Locally
+
+### Running the Project Locally
 
 Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/arichi-fz/arichi-fz.github.io.git
+```bash
+git clone https://github.com/arichi-fz/arichi-fz.github.io.git
 
 2. Navigate to the project directory
 
