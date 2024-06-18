@@ -1,4 +1,3 @@
-
 # My Portfolio Website
 
 This repository contains the source code for my portfolio website, hosted at [https://arichi-fz.github.io/](https://arichi-fz.github.io/).
@@ -44,3 +43,7 @@ Follow these steps to run the project on your local machine:
    ```
 
 3. Open `index.html` in your web browser to view the website.
+
+### Deployment
+
+This website is automatically deployed to GitHub Pages when changes are pushed to the main branch.
