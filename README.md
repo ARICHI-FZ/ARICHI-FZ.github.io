@@ -1,6 +1,8 @@
+
+```markdown
 # Portfolio Website
 
-This repository contains the source code for my personal website, hosted at [https://arichi-fz.github.io/](https://arichi-fz.github.io/).
+This repository contains the source code for my portfolio website, hosted at [https://arichi-fz.github.io/](https://arichi-fz.github.io/).
 
 ## Project Structure
 
@@ -26,21 +28,21 @@ To clone this repository to your local machine, use the following command:
 
 ```bash
 git clone https://github.com/arichi-fz/arichi-fz.github.io.git
-
+```
 
 ### Running the Project Locally
 
 Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
-```bash
-git clone https://github.com/arichi-fz/arichi-fz.github.io.git
+   ```bash
+   git clone https://github.com/arichi-fz/arichi-fz.github.io.git
+   ```
 
-2. Navigate to the project directory
+2. Navigate to the project directory:
+   ```bash
+   cd arichi-fz.github.io
+   ```
 
-To navigate to the project directory, use the following command in your terminal:
-
-```bash
-cd arichi-fz.github.io
-
-You can open index.html in your web browser to view the website.
+3. Open `index.html` in your web browser to view the website.
+```
